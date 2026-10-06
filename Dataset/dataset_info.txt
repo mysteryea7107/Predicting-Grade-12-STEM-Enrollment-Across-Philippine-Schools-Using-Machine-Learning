@@ -1,0 +1,18 @@
+DATASET INFORMATION
+
+Source:
+Department of Education (DepEd), Philippines
+
+Dataset Source:
+https://www.deped.gov.ph/machine-ready-files/
+
+Dataset Description:
+This dataset contains school-level information, including school location, school characteristics, grade levels offered, and enrollment counts.
+
+Purpose:
+The dataset is used for STAT 516 – Applied Predictive Modeling to demonstrate data selection, preprocessing, exploratory analysis, and predictive modeling.
+
+Notes:
+- The raw dataset is kept unchanged.
+- Data preprocessing and cleaning are performed separately.
+- Variables are documented in the main project notebook.
