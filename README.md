@@ -168,9 +168,9 @@ The original source and dataset information are documented in the `Dataset/` fol
 
 ## 👤 Author
 
-**Emerson C. Antic**
+**Emerson**
 
-Data Science | Data Analytics | Machine Learning
+Data Science | Data Analytics | Data Scientist
 
 ---
 
